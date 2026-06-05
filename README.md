@@ -1,5 +1,10 @@
 # PythonPlays
 
+![GitHub stars](https://img.shields.io/github/stars/kislay-aidev/PythonPlays?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kislay-aidev/PythonPlays?style=social)
+![Python version](https://img.shields.io/badge/python-3.14%2B-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+
 A good and perfect experimentation codespace.
 
 One can have a clear understaing of the core Python and some of its Libraries
