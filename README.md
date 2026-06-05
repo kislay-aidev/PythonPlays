@@ -5,6 +5,8 @@
 ![Python version](https://img.shields.io/badge/python-3.14%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 
+**Building the bridge from core Python to next‑gen AI systems**
+
 A good and perfect experimentation codespace.
 
 One can have a clear understaing of the core Python and some of its Libraries
